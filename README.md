@@ -78,6 +78,6 @@ Contributions are welcome! Follow these steps to contribute:
 
 You can reach me via the following platforms:
 
-- Linkedin - [Satyajit Samal](https://www.linkedin.com/in/saurav-pal/)
+- Linkedin - [Saurav Pal](https://www.linkedin.com/in/saurav-pal/)
 
 - Email - [sauravpal.work@gmail.com](mailto:sauravpal.work@gmail.com)
